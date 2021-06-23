@@ -24,3 +24,4 @@
 Funzioni possibili: 
 openCloseBox(box) per aprire/chiudere un contenitore
 versa(box1,box2) per versare il contenuto di box1 dentro box2 fino a quando box2 non raggiunge capacità massima
+/*
